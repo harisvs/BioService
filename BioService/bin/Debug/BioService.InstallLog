@@ -1,0 +1,79 @@
+﻿Installing assembly 'E:\TfsProjects\BioService\BioService\bin\Debug\BioService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\TfsProjects\BioService\BioService\bin\Debug\BioService.InstallLog
+   assemblypath = E:\TfsProjects\BioService\BioService\bin\Debug\BioService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the E:\TfsProjects\BioService\BioService\bin\Debug\BioService.exe assembly.
+Committing assembly 'E:\TfsProjects\BioService\BioService\bin\Debug\BioService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\TfsProjects\BioService\BioService\bin\Debug\BioService.InstallLog
+   assemblypath = E:\TfsProjects\BioService\BioService\bin\Debug\BioService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the E:\TfsProjects\BioService\BioService\bin\Debug\BioService.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'E:\TfsProjects\BioService\BioService\bin\Debug\BioService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\TfsProjects\BioService\BioService\bin\Debug\BioService.InstallLog
+   assemblypath = E:\TfsProjects\BioService\BioService\bin\Debug\BioService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the E:\TfsProjects\BioService\BioService\bin\Debug\BioService.exe assembly.
+Committing assembly 'E:\TfsProjects\BioService\BioService\bin\Debug\BioService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\TfsProjects\BioService\BioService\bin\Debug\BioService.InstallLog
+   assemblypath = E:\TfsProjects\BioService\BioService\bin\Debug\BioService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the E:\TfsProjects\BioService\BioService\bin\Debug\BioService.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'E:\TfsProjects\BioService\BioService\bin\Debug\BioService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\TfsProjects\BioService\BioService\bin\Debug\BioService.InstallLog
+   assemblypath = E:\TfsProjects\BioService\BioService\bin\Debug\BioService.exe
+Rolling back assembly 'E:\TfsProjects\BioService\BioService\bin\Debug\BioService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\TfsProjects\BioService\BioService\bin\Debug\BioService.InstallLog
+   assemblypath = E:\TfsProjects\BioService\BioService\bin\Debug\BioService.exe
+Installing assembly 'E:\TfsProjects\BioService\BioService\bin\Debug\BioService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\TfsProjects\BioService\BioService\bin\Debug\BioService.InstallLog
+   assemblypath = E:\TfsProjects\BioService\BioService\bin\Debug\BioService.exe
+Rolling back assembly 'E:\TfsProjects\BioService\BioService\bin\Debug\BioService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\TfsProjects\BioService\BioService\bin\Debug\BioService.InstallLog
+   assemblypath = E:\TfsProjects\BioService\BioService\bin\Debug\BioService.exe
+Installing assembly 'E:\TfsProjects\BioService\BioService\bin\Debug\BioService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\TfsProjects\BioService\BioService\bin\Debug\BioService.InstallLog
+   assemblypath = E:\TfsProjects\BioService\BioService\bin\Debug\BioService.exe
+Rolling back assembly 'E:\TfsProjects\BioService\BioService\bin\Debug\BioService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\TfsProjects\BioService\BioService\bin\Debug\BioService.InstallLog
+   assemblypath = E:\TfsProjects\BioService\BioService\bin\Debug\BioService.exe
+Installing assembly 'E:\TfsProjects\BioService\BioService\bin\Debug\BioService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\TfsProjects\BioService\BioService\bin\Debug\BioService.InstallLog
+   assemblypath = E:\TfsProjects\BioService\BioService\bin\Debug\BioService.exe
+Rolling back assembly 'E:\TfsProjects\BioService\BioService\bin\Debug\BioService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\TfsProjects\BioService\BioService\bin\Debug\BioService.InstallLog
+   assemblypath = E:\TfsProjects\BioService\BioService\bin\Debug\BioService.exe
+Installing assembly 'E:\TfsProjects\BioService\BioService\bin\Debug\BioService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\TfsProjects\BioService\BioService\bin\Debug\BioService.InstallLog
+   assemblypath = E:\TfsProjects\BioService\BioService\bin\Debug\BioService.exe
+Installing service Test...
+Service Test has been successfully installed.
+Creating EventLog source Test in log Application...
+Committing assembly 'E:\TfsProjects\BioService\BioService\bin\Debug\BioService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\TfsProjects\BioService\BioService\bin\Debug\BioService.InstallLog
+   assemblypath = E:\TfsProjects\BioService\BioService\bin\Debug\BioService.exe

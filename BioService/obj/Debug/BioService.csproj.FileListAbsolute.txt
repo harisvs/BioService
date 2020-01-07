@@ -1,0 +1,14 @@
+E:\TfsProjects\BioService\BioService\bin\Debug\BioService.exe.config
+E:\TfsProjects\BioService\BioService\bin\Debug\BioService.exe
+E:\TfsProjects\BioService\BioService\bin\Debug\BioService.pdb
+E:\TfsProjects\BioService\BioService\obj\Debug\BioService.csproj.CoreCompileInputs.cache
+E:\TfsProjects\BioService\BioService\obj\Debug\BioService.exe
+E:\TfsProjects\BioService\BioService\obj\Debug\BioService.pdb
+E:\TfsProjects\BioService\BioService\obj\Debug\BioService.ProjectInstaller.resources
+E:\TfsProjects\BioService\BioService\obj\Debug\BioService.csproj.GenerateResource.cache
+E:\TfsProjects\BioService\BioService\obj\Debug\Interop.zkemkeeper.dll
+E:\TfsProjects\BioService\BioService\obj\Debug\BioService.csproj.ResolveComReference.cache
+E:\TfsProjects\BioService\BioService\obj\Debug\BioService.csprojAssemblyReference.cache
+E:\TfsProjects\BioService\BioService\bin\Debug\DataAccess.dll
+E:\TfsProjects\BioService\BioService\bin\Debug\DataAccess.pdb
+E:\TfsProjects\BioService\BioService\obj\Debug\BioService.csproj.CopyComplete

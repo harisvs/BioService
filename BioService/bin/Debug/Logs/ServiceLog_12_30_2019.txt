@@ -1,0 +1,84 @@
+ConnectDevice is starting 12/30/2019 9:22:13 PM
+ConnectDevice is starting 12/30/2019 9:23:17 PM
+ConnectDevice is starting 12/30/2019 9:24:17 PM
+Fetched Records : 1 , 12/30/2019 9:24:20 PM
+Cleared Records from MachineNo : 1,  ipAddress : 192.168.137.2 , 12/30/2019 9:24:20 PM
+ConnectDevice is starting 12/30/2019 9:25:20 PM
+ConnectDevice is starting 12/30/2019 9:26:20 PM
+ConnectDevice is starting 12/30/2019 9:27:23 PM
+ConnectDevice is starting 12/30/2019 9:28:23 PM
+Fetched Records : 2 , 12/30/2019 9:28:26 PM
+Cleared Records from MachineNo : 1,  ipAddress : 192.168.137.2 , 12/30/2019 9:28:26 PM
+ConnectDevice is starting 12/30/2019 9:29:26 PM
+ConnectDevice is starting 12/30/2019 9:30:26 PM
+ConnectDevice is starting 12/30/2019 9:31:29 PM
+ConnectDevice is starting 12/30/2019 9:32:29 PM
+ConnectDevice is starting 12/30/2019 9:33:32 PM
+ConnectDevice is starting 12/30/2019 9:34:32 PM
+ConnectDevice is starting 12/30/2019 9:35:35 PM
+ConnectDevice is starting 12/30/2019 9:36:35 PM
+ConnectDevice is starting 12/30/2019 9:37:38 PM
+ConnectDevice is starting 12/30/2019 9:38:38 PM
+Error : The device at 192.168.137.2:4370 did not respond!!12/30/2019 9:38:39 PM
+ConnectDevice is starting 12/30/2019 9:39:39 PM
+Error : The device at 192.168.137.2:4370 did not respond!!12/30/2019 9:39:39 PM
+ConnectDevice is starting 12/30/2019 9:40:39 PM
+Error : The device at 192.168.137.2:4370 did not respond!!12/30/2019 9:40:40 PM
+ConnectDevice is starting 12/30/2019 9:41:40 PM
+Error : The device at 192.168.137.2:4370 did not respond!!12/30/2019 9:41:40 PM
+ConnectDevice is starting 12/30/2019 9:42:40 PM
+Error : The device at 192.168.137.2:4370 did not respond!!12/30/2019 9:42:41 PM
+ConnectDevice is starting 12/30/2019 9:43:41 PM
+Error : The device at 192.168.137.2:4370 did not respond!!12/30/2019 9:43:41 PM
+ConnectDevice is starting 12/30/2019 9:44:41 PM
+Error : The device at 192.168.137.2:4370 did not respond!!12/30/2019 9:44:42 PM
+ConnectDevice is starting 12/30/2019 9:45:42 PM
+Error : The device at 192.168.137.2:4370 did not respond!!12/30/2019 9:45:42 PM
+ConnectDevice is starting 12/30/2019 9:46:42 PM
+Error : The device at 192.168.137.2:4370 did not respond!!12/30/2019 9:46:43 PM
+ConnectDevice is starting 12/30/2019 9:47:43 PM
+Error : The device at 192.168.137.2:4370 did not respond!!12/30/2019 9:47:43 PM
+ConnectDevice is starting 12/30/2019 9:48:43 PM
+Error : The device at 192.168.137.2:4370 did not respond!!12/30/2019 9:48:44 PM
+ConnectDevice is starting 12/30/2019 9:49:44 PM
+Error : The device at 192.168.137.2:4370 did not respond!!12/30/2019 9:49:44 PM
+ConnectDevice is starting 12/30/2019 9:50:44 PM
+Error : The device at 192.168.137.2:4370 did not respond!!12/30/2019 9:50:45 PM
+ConnectDevice is starting 12/30/2019 9:51:45 PM
+Error : The device at 192.168.137.2:4370 did not respond!!12/30/2019 9:51:45 PM
+ConnectDevice is starting 12/30/2019 9:52:45 PM
+Error : The device at 192.168.137.2:4370 did not respond!!12/30/2019 9:52:46 PM
+ConnectDevice is starting 12/30/2019 9:53:46 PM
+Error : The device at 192.168.137.2:4370 did not respond!!12/30/2019 9:53:46 PM
+ConnectDevice is starting 12/30/2019 9:54:46 PM
+Error : The device at 192.168.137.2:4370 did not respond!!12/30/2019 9:54:47 PM
+ConnectDevice is starting 12/30/2019 9:55:47 PM
+Error : The device at 192.168.137.2:4370 did not respond!!12/30/2019 9:55:47 PM
+ConnectDevice is starting 12/30/2019 9:56:47 PM
+Error : The device at 192.168.137.2:4370 did not respond!!12/30/2019 9:56:48 PM
+ConnectDevice is starting 12/30/2019 9:57:48 PM
+Error : The device at 192.168.137.2:4370 did not respond!!12/30/2019 9:57:48 PM
+ConnectDevice is starting 12/30/2019 9:58:48 PM
+Error : The device at 192.168.137.2:4370 did not respond!!12/30/2019 9:58:49 PM
+ConnectDevice is starting 12/30/2019 9:59:49 PM
+Error : The device at 192.168.137.2:4370 did not respond!!12/30/2019 9:59:49 PM
+ConnectDevice is starting 12/30/2019 10:00:49 PM
+Error : The device at 192.168.137.2:4370 did not respond!!12/30/2019 10:00:50 PM
+ConnectDevice is starting 12/30/2019 10:01:50 PM
+Error : The device at 192.168.137.2:4370 did not respond!!12/30/2019 10:01:50 PM
+ConnectDevice is starting 12/30/2019 10:02:50 PM
+Error : The device at 192.168.137.2:4370 did not respond!!12/30/2019 10:02:51 PM
+ConnectDevice is starting 12/30/2019 10:03:51 PM
+Error : The device at 192.168.137.2:4370 did not respond!!12/30/2019 10:03:51 PM
+ConnectDevice is starting 12/30/2019 10:04:51 PM
+Error : The device at 192.168.137.2:4370 did not respond!!12/30/2019 10:04:52 PM
+ConnectDevice is starting 12/30/2019 10:05:52 PM
+Error : The device at 192.168.137.2:4370 did not respond!!12/30/2019 10:05:52 PM
+ConnectDevice is starting 12/30/2019 10:06:52 PM
+Error : The device at 192.168.137.2:4370 did not respond!!12/30/2019 10:06:53 PM
+ConnectDevice is starting 12/30/2019 10:07:53 PM
+Error : The device at 192.168.137.2:4370 did not respond!!12/30/2019 10:07:53 PM
+ConnectDevice is starting 12/30/2019 10:08:53 PM
+Error : The device at 192.168.137.2:4370 did not respond!!12/30/2019 10:08:54 PM
+ConnectDevice is starting 12/30/2019 10:09:54 PM
+Error : The device at 192.168.137.2:4370 did not respond!!12/30/2019 10:09:54 PM

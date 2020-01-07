@@ -1,0 +1,697 @@
+ConnectDevice is starting 1/4/2020 3:09:48 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 3:10:04 PM
+Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParserStateObject.ReadSniError(TdsParserStateObject stateObj, UInt32 error)
+   at System.Data.SqlClient.TdsParserStateObject.ReadSniSyncOverAsync()
+   at System.Data.SqlClient.TdsParserStateObject.TryReadNetworkPacket()
+   at System.Data.SqlClient.TdsParserStateObject.TryPrepareBuffer()
+   at System.Data.SqlClient.TdsParserStateObject.TryReadByte(Byte& value)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteScalar()
+   at DataAccess.DataDal.Ins_Error(Errorlog errorlog) in E:\TfsProjects\BioService\DataAccess\DataDal.cs:line 143
+ConnectDevice is starting 1/4/2020 3:12:15 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 3:12:15 PM
+ConnectDevice is starting 1/4/2020 3:13:19 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 3:13:20 PM
+ConnectDevice is starting 1/4/2020 3:14:20 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 3:14:20 PM
+ConnectDevice is starting 1/4/2020 3:15:20 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 3:15:21 PM
+ConnectDevice is starting 1/4/2020 3:16:21 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 3:16:21 PM
+ConnectDevice is starting 1/4/2020 3:17:21 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 3:17:22 PM
+ConnectDevice is starting 1/4/2020 3:18:22 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 3:18:23 PM
+ConnectDevice is starting 1/4/2020 3:19:23 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 3:19:23 PM
+ConnectDevice is starting 1/4/2020 3:20:23 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 3:20:24 PM
+ConnectDevice is starting 1/4/2020 3:21:24 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 3:21:24 PM
+ConnectDevice is starting 1/4/2020 3:22:24 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 3:22:25 PM
+ConnectDevice is starting 1/4/2020 3:23:25 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 3:23:25 PM
+ConnectDevice is starting 1/4/2020 3:24:25 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 3:24:26 PM
+ConnectDevice is starting 1/4/2020 3:25:26 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 3:25:26 PM
+ConnectDevice is starting 1/4/2020 3:26:26 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 3:26:27 PM
+ConnectDevice is starting 1/4/2020 3:27:27 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 3:27:27 PM
+ConnectDevice is starting 1/4/2020 3:28:27 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 3:28:28 PM
+ConnectDevice is starting 1/4/2020 3:29:28 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 3:29:28 PM
+ConnectDevice is starting 1/4/2020 3:30:28 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 3:30:29 PM
+ConnectDevice is starting 1/4/2020 3:31:29 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 3:31:29 PM
+ConnectDevice is starting 1/4/2020 3:32:29 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 3:32:30 PM
+ConnectDevice is starting 1/4/2020 3:33:30 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 3:33:30 PM
+ConnectDevice is starting 1/4/2020 3:34:30 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 3:34:31 PM
+ConnectDevice is starting 1/4/2020 3:35:31 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 3:35:31 PM
+ConnectDevice is starting 1/4/2020 3:36:31 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 3:36:32 PM
+ConnectDevice is starting 1/4/2020 3:37:32 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 3:37:32 PM
+ConnectDevice is starting 1/4/2020 3:38:32 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 3:38:33 PM
+ConnectDevice is starting 1/4/2020 3:39:33 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 3:39:33 PM
+ConnectDevice is starting 1/4/2020 3:40:33 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 3:40:34 PM
+ConnectDevice is starting 1/4/2020 3:41:34 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 3:41:34 PM
+ConnectDevice is starting 1/4/2020 3:42:34 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 3:42:35 PM
+ConnectDevice is starting 1/4/2020 3:43:35 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 3:43:35 PM
+ConnectDevice is starting 1/4/2020 3:44:35 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 3:44:36 PM
+ConnectDevice is starting 1/4/2020 3:45:36 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 3:45:36 PM
+ConnectDevice is starting 1/4/2020 3:46:36 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 3:46:37 PM
+ConnectDevice is starting 1/4/2020 3:47:37 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 3:47:37 PM
+ConnectDevice is starting 1/4/2020 3:48:37 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 3:48:38 PM
+ConnectDevice is starting 1/4/2020 3:49:38 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 3:49:38 PM
+ConnectDevice is starting 1/4/2020 3:50:38 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 3:50:39 PM
+ConnectDevice is starting 1/4/2020 3:51:39 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 3:51:39 PM
+ConnectDevice is starting 1/4/2020 3:52:39 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 3:52:40 PM
+ConnectDevice is starting 1/4/2020 3:53:40 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 3:53:40 PM
+ConnectDevice is starting 1/4/2020 3:54:40 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 3:54:41 PM
+ConnectDevice is starting 1/4/2020 3:55:41 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 3:55:41 PM
+ConnectDevice is starting 1/4/2020 3:56:41 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 3:56:42 PM
+ConnectDevice is starting 1/4/2020 3:57:42 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 3:57:42 PM
+ConnectDevice is starting 1/4/2020 3:58:42 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 3:58:43 PM
+ConnectDevice is starting 1/4/2020 3:59:43 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 3:59:43 PM
+ConnectDevice is starting 1/4/2020 4:00:43 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 4:00:44 PM
+ConnectDevice is starting 1/4/2020 4:01:44 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 4:01:44 PM
+ConnectDevice is starting 1/4/2020 4:02:44 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 4:02:45 PM
+ConnectDevice is starting 1/4/2020 4:03:45 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 4:03:45 PM
+ConnectDevice is starting 1/4/2020 4:04:45 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 4:04:46 PM
+ConnectDevice is starting 1/4/2020 4:05:46 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 4:05:46 PM
+ConnectDevice is starting 1/4/2020 4:06:46 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 4:06:47 PM
+ConnectDevice is starting 1/4/2020 4:07:47 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 4:07:47 PM
+ConnectDevice is starting 1/4/2020 4:08:47 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 4:08:48 PM
+ConnectDevice is starting 1/4/2020 4:09:48 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 4:09:48 PM
+ConnectDevice is starting 1/4/2020 4:10:48 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 4:10:49 PM
+ConnectDevice is starting 1/4/2020 4:11:49 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 4:11:49 PM
+ConnectDevice is starting 1/4/2020 4:12:49 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 4:12:50 PM
+ConnectDevice is starting 1/4/2020 4:13:50 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 4:13:50 PM
+ConnectDevice is starting 1/4/2020 4:14:50 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 4:14:51 PM
+ConnectDevice is starting 1/4/2020 4:15:51 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 4:15:51 PM
+ConnectDevice is starting 1/4/2020 4:16:51 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 4:16:52 PM
+ConnectDevice is starting 1/4/2020 4:17:52 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 4:17:52 PM
+ConnectDevice is starting 1/4/2020 4:18:52 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 4:18:53 PM
+ConnectDevice is starting 1/4/2020 4:19:53 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 4:19:53 PM
+ConnectDevice is starting 1/4/2020 4:20:53 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 4:20:54 PM
+ConnectDevice is starting 1/4/2020 4:21:54 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 4:21:54 PM
+ConnectDevice is starting 1/4/2020 4:22:54 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 4:22:55 PM
+ConnectDevice is starting 1/4/2020 4:23:55 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 4:23:55 PM
+ConnectDevice is starting 1/4/2020 4:24:55 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 4:24:56 PM
+ConnectDevice is starting 1/4/2020 4:25:56 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 4:25:56 PM
+ConnectDevice is starting 1/4/2020 4:26:56 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 4:26:57 PM
+ConnectDevice is starting 1/4/2020 4:27:57 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 4:27:57 PM
+ConnectDevice is starting 1/4/2020 4:28:57 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 4:28:58 PM
+ConnectDevice is starting 1/4/2020 4:29:58 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 4:29:58 PM
+ConnectDevice is starting 1/4/2020 4:30:58 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 4:30:59 PM
+ConnectDevice is starting 1/4/2020 4:31:59 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 4:31:59 PM
+ConnectDevice is starting 1/4/2020 4:32:59 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 4:33:00 PM
+ConnectDevice is starting 1/4/2020 4:34:00 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 4:34:00 PM
+ConnectDevice is starting 1/4/2020 4:35:00 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 4:35:01 PM
+ConnectDevice is starting 1/4/2020 4:36:01 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 4:36:01 PM
+ConnectDevice is starting 1/4/2020 4:37:01 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 4:37:02 PM
+ConnectDevice is starting 1/4/2020 4:38:02 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 4:38:02 PM
+ConnectDevice is starting 1/4/2020 4:39:02 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 4:39:03 PM
+ConnectDevice is starting 1/4/2020 4:40:03 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 4:40:03 PM
+ConnectDevice is starting 1/4/2020 4:41:03 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 4:41:04 PM
+ConnectDevice is starting 1/4/2020 4:42:04 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 4:42:04 PM
+ConnectDevice is starting 1/4/2020 4:43:04 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 4:43:05 PM
+ConnectDevice is starting 1/4/2020 4:44:05 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 4:44:05 PM
+ConnectDevice is starting 1/4/2020 4:45:05 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 4:45:06 PM
+ConnectDevice is starting 1/4/2020 4:46:06 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 4:46:06 PM
+ConnectDevice is starting 1/4/2020 4:47:06 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 4:47:07 PM
+ConnectDevice is starting 1/4/2020 4:48:07 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 4:48:07 PM
+ConnectDevice is starting 1/4/2020 4:49:07 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 4:49:08 PM
+ConnectDevice is starting 1/4/2020 4:50:08 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 4:50:08 PM
+ConnectDevice is starting 1/4/2020 4:51:08 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 4:51:09 PM
+ConnectDevice is starting 1/4/2020 4:52:09 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 4:52:09 PM
+ConnectDevice is starting 1/4/2020 4:53:09 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 4:53:10 PM
+ConnectDevice is starting 1/4/2020 4:54:10 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 4:54:10 PM
+ConnectDevice is starting 1/4/2020 4:55:10 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 4:55:11 PM
+ConnectDevice is starting 1/4/2020 4:56:11 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 4:56:11 PM
+ConnectDevice is starting 1/4/2020 4:57:11 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 4:57:12 PM
+ConnectDevice is starting 1/4/2020 4:58:12 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 4:58:12 PM
+ConnectDevice is starting 1/4/2020 4:59:12 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 4:59:13 PM
+ConnectDevice is starting 1/4/2020 5:00:13 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 5:00:13 PM
+ConnectDevice is starting 1/4/2020 5:01:13 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 5:01:14 PM
+ConnectDevice is starting 1/4/2020 5:02:14 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 5:02:14 PM
+ConnectDevice is starting 1/4/2020 5:03:14 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 5:03:15 PM
+ConnectDevice is starting 1/4/2020 5:04:15 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 5:04:15 PM
+ConnectDevice is starting 1/4/2020 5:05:15 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 5:05:16 PM
+ConnectDevice is starting 1/4/2020 5:06:16 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 5:06:16 PM
+ConnectDevice is starting 1/4/2020 5:07:16 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 5:07:17 PM
+ConnectDevice is starting 1/4/2020 5:08:17 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 5:08:17 PM
+ConnectDevice is starting 1/4/2020 5:09:17 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 5:09:18 PM
+ConnectDevice is starting 1/4/2020 5:10:18 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 5:10:18 PM
+ConnectDevice is starting 1/4/2020 5:11:18 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 5:11:19 PM
+ConnectDevice is starting 1/4/2020 5:12:19 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 5:12:19 PM
+ConnectDevice is starting 1/4/2020 5:13:19 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 5:13:20 PM
+ConnectDevice is starting 1/4/2020 5:14:20 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 5:14:20 PM
+ConnectDevice is starting 1/4/2020 5:15:20 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 5:15:21 PM
+ConnectDevice is starting 1/4/2020 5:16:21 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 5:16:21 PM
+ConnectDevice is starting 1/4/2020 5:17:21 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 5:17:22 PM
+ConnectDevice is starting 1/4/2020 5:18:22 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 5:18:22 PM
+ConnectDevice is starting 1/4/2020 5:19:22 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 5:19:23 PM
+ConnectDevice is starting 1/4/2020 5:20:23 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 5:20:23 PM
+ConnectDevice is starting 1/4/2020 5:21:23 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 5:21:24 PM
+ConnectDevice is starting 1/4/2020 5:22:24 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 5:22:24 PM
+ConnectDevice is starting 1/4/2020 5:23:24 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 5:23:25 PM
+ConnectDevice is starting 1/4/2020 5:24:25 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 5:24:25 PM
+ConnectDevice is starting 1/4/2020 5:25:25 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 5:25:26 PM
+ConnectDevice is starting 1/4/2020 5:26:26 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 5:26:26 PM
+ConnectDevice is starting 1/4/2020 5:27:26 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 5:27:27 PM
+ConnectDevice is starting 1/4/2020 5:28:27 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 5:28:27 PM
+ConnectDevice is starting 1/4/2020 5:29:27 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 5:29:28 PM
+ConnectDevice is starting 1/4/2020 5:30:28 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 5:30:28 PM
+ConnectDevice is starting 1/4/2020 5:31:28 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 5:31:29 PM
+ConnectDevice is starting 1/4/2020 5:32:29 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 5:32:29 PM
+ConnectDevice is starting 1/4/2020 5:33:29 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 5:33:30 PM
+ConnectDevice is starting 1/4/2020 5:34:30 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 5:34:30 PM
+ConnectDevice is starting 1/4/2020 5:35:30 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 5:35:31 PM
+ConnectDevice is starting 1/4/2020 5:36:31 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 5:36:31 PM
+ConnectDevice is starting 1/4/2020 5:37:31 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 5:37:32 PM
+ConnectDevice is starting 1/4/2020 5:38:32 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 5:38:32 PM
+ConnectDevice is starting 1/4/2020 5:39:32 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 5:39:33 PM
+ConnectDevice is starting 1/4/2020 5:40:33 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 5:40:33 PM
+ConnectDevice is starting 1/4/2020 5:41:33 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 5:41:34 PM
+ConnectDevice is starting 1/4/2020 5:42:34 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 5:42:34 PM
+ConnectDevice is starting 1/4/2020 5:43:34 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 5:43:35 PM
+ConnectDevice is starting 1/4/2020 5:44:35 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 5:44:35 PM
+ConnectDevice is starting 1/4/2020 5:45:35 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 5:45:36 PM
+ConnectDevice is starting 1/4/2020 5:46:36 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 5:46:36 PM
+ConnectDevice is starting 1/4/2020 5:47:36 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 5:47:37 PM
+ConnectDevice is starting 1/4/2020 5:48:37 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 5:48:37 PM
+ConnectDevice is starting 1/4/2020 5:49:37 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 5:49:38 PM
+ConnectDevice is starting 1/4/2020 5:50:38 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 5:50:38 PM
+ConnectDevice is starting 1/4/2020 5:51:38 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 5:51:39 PM
+ConnectDevice is starting 1/4/2020 5:52:39 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 5:52:39 PM
+ConnectDevice is starting 1/4/2020 5:53:39 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 5:53:40 PM
+ConnectDevice is starting 1/4/2020 5:54:40 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 5:54:40 PM
+ConnectDevice is starting 1/4/2020 5:55:40 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 5:55:41 PM
+ConnectDevice is starting 1/4/2020 5:56:41 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 5:56:41 PM
+ConnectDevice is starting 1/4/2020 5:57:41 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 5:57:42 PM
+ConnectDevice is starting 1/4/2020 5:58:42 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 5:58:42 PM
+ConnectDevice is starting 1/4/2020 5:59:42 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 5:59:43 PM
+ConnectDevice is starting 1/4/2020 6:00:43 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 6:00:43 PM
+ConnectDevice is starting 1/4/2020 6:01:43 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 6:01:44 PM
+ConnectDevice is starting 1/4/2020 6:02:44 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 6:02:44 PM
+ConnectDevice is starting 1/4/2020 6:03:44 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 6:03:45 PM
+ConnectDevice is starting 1/4/2020 6:04:45 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 6:04:45 PM
+ConnectDevice is starting 1/4/2020 6:05:45 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 6:05:46 PM
+ConnectDevice is starting 1/4/2020 6:06:46 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 6:06:46 PM
+ConnectDevice is starting 1/4/2020 6:07:46 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 6:07:47 PM
+ConnectDevice is starting 1/4/2020 6:08:47 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 6:08:47 PM
+ConnectDevice is starting 1/4/2020 6:09:47 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 6:09:48 PM
+ConnectDevice is starting 1/4/2020 6:10:48 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 6:10:48 PM
+ConnectDevice is starting 1/4/2020 6:11:48 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 6:11:49 PM
+ConnectDevice is starting 1/4/2020 6:12:49 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 6:12:49 PM
+ConnectDevice is starting 1/4/2020 6:13:49 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 6:13:50 PM
+ConnectDevice is starting 1/4/2020 6:14:50 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 6:14:50 PM
+ConnectDevice is starting 1/4/2020 6:15:50 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 6:15:51 PM
+ConnectDevice is starting 1/4/2020 6:16:51 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 6:16:51 PM
+ConnectDevice is starting 1/4/2020 6:17:51 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 6:17:52 PM
+ConnectDevice is starting 1/4/2020 6:18:52 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 6:18:52 PM
+ConnectDevice is starting 1/4/2020 6:19:52 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 6:19:53 PM
+ConnectDevice is starting 1/4/2020 6:20:53 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 6:20:53 PM
+ConnectDevice is starting 1/4/2020 6:21:53 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 6:21:54 PM
+ConnectDevice is starting 1/4/2020 6:22:54 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 6:22:54 PM
+ConnectDevice is starting 1/4/2020 6:23:54 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 6:23:55 PM
+ConnectDevice is starting 1/4/2020 6:24:55 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 6:24:55 PM
+ConnectDevice is starting 1/4/2020 6:25:55 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 6:25:56 PM
+ConnectDevice is starting 1/4/2020 6:26:56 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 6:26:56 PM
+ConnectDevice is starting 1/4/2020 6:27:56 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 6:27:57 PM
+ConnectDevice is starting 1/4/2020 6:28:57 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 6:28:57 PM
+ConnectDevice is starting 1/4/2020 6:29:57 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 6:29:58 PM
+ConnectDevice is starting 1/4/2020 6:30:58 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 6:30:58 PM
+ConnectDevice is starting 1/4/2020 6:31:58 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 6:31:59 PM
+ConnectDevice is starting 1/4/2020 6:32:59 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 6:32:59 PM
+ConnectDevice is starting 1/4/2020 6:33:59 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 6:34:00 PM
+ConnectDevice is starting 1/4/2020 6:35:00 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 6:35:00 PM
+ConnectDevice is starting 1/4/2020 6:36:00 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 6:36:01 PM
+ConnectDevice is starting 1/4/2020 6:37:01 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 6:37:01 PM
+ConnectDevice is starting 1/4/2020 6:38:01 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 6:38:02 PM
+ConnectDevice is starting 1/4/2020 6:39:02 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 6:39:02 PM
+ConnectDevice is starting 1/4/2020 6:40:02 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 6:40:03 PM
+ConnectDevice is starting 1/4/2020 6:41:03 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 6:41:03 PM
+ConnectDevice is starting 1/4/2020 6:42:03 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 6:42:04 PM
+ConnectDevice is starting 1/4/2020 6:43:04 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 6:43:04 PM
+ConnectDevice is starting 1/4/2020 6:44:04 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 6:44:05 PM
+ConnectDevice is starting 1/4/2020 6:45:05 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 6:45:05 PM
+ConnectDevice is starting 1/4/2020 6:46:05 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 6:46:06 PM
+ConnectDevice is starting 1/4/2020 6:47:06 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 6:47:06 PM
+ConnectDevice is starting 1/4/2020 6:48:06 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 6:48:07 PM
+ConnectDevice is starting 1/4/2020 6:49:07 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 6:49:07 PM
+ConnectDevice is starting 1/4/2020 6:50:07 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 6:50:08 PM
+ConnectDevice is starting 1/4/2020 6:51:08 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 6:51:08 PM
+ConnectDevice is starting 1/4/2020 6:52:08 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 6:52:09 PM
+ConnectDevice is starting 1/4/2020 6:53:09 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 6:53:09 PM
+ConnectDevice is starting 1/4/2020 6:54:09 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 6:54:10 PM
+ConnectDevice is starting 1/4/2020 6:55:10 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 6:55:10 PM
+ConnectDevice is starting 1/4/2020 6:56:10 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 6:56:11 PM
+ConnectDevice is starting 1/4/2020 6:57:11 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 6:57:11 PM
+ConnectDevice is starting 1/4/2020 6:58:11 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 6:58:12 PM
+ConnectDevice is starting 1/4/2020 6:59:12 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 6:59:12 PM
+ConnectDevice is starting 1/4/2020 7:00:12 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 7:00:13 PM
+ConnectDevice is starting 1/4/2020 7:01:13 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 7:01:13 PM
+ConnectDevice is starting 1/4/2020 7:02:13 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 7:02:14 PM
+ConnectDevice is starting 1/4/2020 7:03:14 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 7:03:14 PM
+ConnectDevice is starting 1/4/2020 7:04:14 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 7:04:15 PM
+ConnectDevice is starting 1/4/2020 7:05:15 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 7:05:15 PM
+ConnectDevice is starting 1/4/2020 7:06:15 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 7:06:16 PM
+ConnectDevice is starting 1/4/2020 7:07:16 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 7:07:16 PM
+ConnectDevice is starting 1/4/2020 7:08:16 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 7:08:17 PM
+ConnectDevice is starting 1/4/2020 7:09:17 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 7:09:17 PM
+ConnectDevice is starting 1/4/2020 7:10:17 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 7:10:18 PM
+ConnectDevice is starting 1/4/2020 7:11:18 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 7:11:18 PM
+ConnectDevice is starting 1/4/2020 7:12:18 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 7:12:19 PM
+ConnectDevice is starting 1/4/2020 7:13:19 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 7:13:19 PM
+ConnectDevice is starting 1/4/2020 7:14:19 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 7:14:20 PM
+ConnectDevice is starting 1/4/2020 7:15:20 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 7:15:20 PM
+ConnectDevice is starting 1/4/2020 7:16:20 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 7:16:21 PM
+ConnectDevice is starting 1/4/2020 7:17:21 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 7:17:21 PM
+ConnectDevice is starting 1/4/2020 7:18:21 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 7:18:22 PM
+ConnectDevice is starting 1/4/2020 7:19:22 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 7:19:22 PM
+ConnectDevice is starting 1/4/2020 7:20:22 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 7:20:23 PM
+ConnectDevice is starting 1/4/2020 7:21:23 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 7:21:23 PM
+ConnectDevice is starting 1/4/2020 7:22:23 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 7:22:24 PM
+ConnectDevice is starting 1/4/2020 7:23:24 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 7:23:24 PM
+ConnectDevice is starting 1/4/2020 7:24:24 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 7:24:25 PM
+ConnectDevice is starting 1/4/2020 7:25:25 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 7:25:25 PM
+ConnectDevice is starting 1/4/2020 7:26:25 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 7:26:26 PM
+ConnectDevice is starting 1/4/2020 7:27:26 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 7:27:26 PM
+ConnectDevice is starting 1/4/2020 7:28:26 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 7:28:27 PM
+ConnectDevice is starting 1/4/2020 7:29:27 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 7:29:27 PM
+ConnectDevice is starting 1/4/2020 7:30:27 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 7:30:28 PM
+ConnectDevice is starting 1/4/2020 7:31:28 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 7:31:28 PM
+ConnectDevice is starting 1/4/2020 7:32:28 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 7:32:29 PM
+ConnectDevice is starting 1/4/2020 7:33:29 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 7:33:29 PM
+ConnectDevice is starting 1/4/2020 7:34:29 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 7:34:30 PM
+ConnectDevice is starting 1/4/2020 7:35:30 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 7:35:30 PM
+ConnectDevice is starting 1/4/2020 7:36:30 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 7:36:31 PM
+ConnectDevice is starting 1/4/2020 7:37:31 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 7:37:31 PM
+ConnectDevice is starting 1/4/2020 7:38:31 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 7:38:32 PM
+ConnectDevice is starting 1/4/2020 7:39:32 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 7:39:32 PM
+ConnectDevice is starting 1/4/2020 7:40:32 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 7:40:33 PM
+ConnectDevice is starting 1/4/2020 7:41:33 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 7:41:33 PM
+ConnectDevice is starting 1/4/2020 7:42:33 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 7:42:34 PM
+ConnectDevice is starting 1/4/2020 7:43:34 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 7:43:34 PM
+ConnectDevice is starting 1/4/2020 7:44:34 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 7:44:35 PM
+ConnectDevice is starting 1/4/2020 7:45:35 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 7:45:35 PM
+ConnectDevice is starting 1/4/2020 7:46:35 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 7:46:36 PM
+ConnectDevice is starting 1/4/2020 7:47:36 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 7:47:36 PM
+ConnectDevice is starting 1/4/2020 7:48:36 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 7:48:37 PM
+ConnectDevice is starting 1/4/2020 7:49:37 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 7:49:37 PM
+ConnectDevice is starting 1/4/2020 7:50:37 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 7:50:38 PM
+ConnectDevice is starting 1/4/2020 7:51:38 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 7:51:38 PM
+ConnectDevice is starting 1/4/2020 7:52:38 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 7:52:39 PM
+ConnectDevice is starting 1/4/2020 7:53:39 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 7:53:39 PM
+ConnectDevice is starting 1/4/2020 7:54:39 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 7:54:40 PM
+ConnectDevice is starting 1/4/2020 7:55:40 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 7:55:40 PM
+ConnectDevice is starting 1/4/2020 7:56:40 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 7:56:41 PM
+ConnectDevice is starting 1/4/2020 7:57:41 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 7:57:41 PM
+ConnectDevice is starting 1/4/2020 7:58:41 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 7:58:42 PM
+ConnectDevice is starting 1/4/2020 7:59:42 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 7:59:42 PM
+ConnectDevice is starting 1/4/2020 8:00:42 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 8:00:43 PM
+ConnectDevice is starting 1/4/2020 8:01:43 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 8:01:43 PM
+ConnectDevice is starting 1/4/2020 8:02:43 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 8:02:44 PM
+ConnectDevice is starting 1/4/2020 8:03:44 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 8:03:44 PM
+ConnectDevice is starting 1/4/2020 8:04:44 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 8:04:45 PM
+ConnectDevice is starting 1/4/2020 8:05:45 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 8:05:45 PM
+ConnectDevice is starting 1/4/2020 8:06:45 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 8:06:46 PM
+ConnectDevice is starting 1/4/2020 8:07:46 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 8:07:46 PM
+ConnectDevice is starting 1/4/2020 8:08:46 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 8:08:47 PM
+ConnectDevice is starting 1/4/2020 8:09:47 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 8:09:47 PM
+ConnectDevice is starting 1/4/2020 8:10:47 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 8:10:48 PM
+ConnectDevice is starting 1/4/2020 8:11:48 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 8:11:48 PM
+ConnectDevice is starting 1/4/2020 8:12:48 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 8:12:49 PM
+ConnectDevice is starting 1/4/2020 8:13:49 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 8:13:49 PM
+ConnectDevice is starting 1/4/2020 8:14:49 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 8:14:50 PM
+ConnectDevice is starting 1/4/2020 8:15:50 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 8:15:50 PM
+ConnectDevice is starting 1/4/2020 8:16:50 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 8:16:51 PM
+ConnectDevice is starting 1/4/2020 8:17:51 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 8:17:51 PM
+ConnectDevice is starting 1/4/2020 8:18:51 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 8:18:52 PM
+ConnectDevice is starting 1/4/2020 8:19:52 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 8:19:52 PM
+ConnectDevice is starting 1/4/2020 8:20:52 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 8:20:53 PM
+ConnectDevice is starting 1/4/2020 8:21:53 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 8:21:53 PM
+ConnectDevice is starting 1/4/2020 8:22:53 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 8:22:54 PM
+ConnectDevice is starting 1/4/2020 8:23:54 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 8:23:54 PM
+ConnectDevice is starting 1/4/2020 8:24:54 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 8:24:55 PM
+ConnectDevice is starting 1/4/2020 8:25:55 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 8:25:55 PM
+ConnectDevice is starting 1/4/2020 8:26:55 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 8:26:56 PM
+ConnectDevice is starting 1/4/2020 8:27:56 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 8:27:56 PM
+ConnectDevice is starting 1/4/2020 8:28:56 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 8:28:57 PM
+ConnectDevice is starting 1/4/2020 8:29:57 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 8:29:57 PM
+ConnectDevice is starting 1/4/2020 8:30:57 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 8:30:58 PM
+ConnectDevice is starting 1/4/2020 8:31:58 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 8:31:58 PM
+ConnectDevice is starting 1/4/2020 8:32:58 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 8:32:59 PM
+ConnectDevice is starting 1/4/2020 8:33:59 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 8:33:59 PM
+ConnectDevice is starting 1/4/2020 8:34:59 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 8:35:00 PM
+ConnectDevice is starting 1/4/2020 8:36:00 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 8:36:00 PM
+ConnectDevice is starting 1/4/2020 8:37:00 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 8:37:01 PM
+ConnectDevice is starting 1/4/2020 8:38:01 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 8:38:01 PM
+ConnectDevice is starting 1/4/2020 8:39:01 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 8:39:02 PM
+ConnectDevice is starting 1/4/2020 8:40:02 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 8:40:02 PM
+ConnectDevice is starting 1/4/2020 8:41:02 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 8:41:03 PM
+ConnectDevice is starting 1/4/2020 8:42:03 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 8:42:03 PM
+ConnectDevice is starting 1/4/2020 8:43:03 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 8:43:04 PM
+ConnectDevice is starting 1/4/2020 8:44:04 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 8:44:04 PM
+ConnectDevice is starting 1/4/2020 8:45:04 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 8:45:05 PM
+ConnectDevice is starting 1/4/2020 8:46:05 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 8:46:05 PM
+ConnectDevice is starting 1/4/2020 8:47:05 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 8:47:06 PM
+ConnectDevice is starting 1/4/2020 8:48:06 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 8:48:06 PM
+ConnectDevice is starting 1/4/2020 8:49:06 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 8:49:07 PM
+ConnectDevice is starting 1/4/2020 8:50:07 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 8:50:07 PM
+ConnectDevice is starting 1/4/2020 8:51:07 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 8:51:08 PM
+ConnectDevice is starting 1/4/2020 8:52:08 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 8:52:08 PM
+ConnectDevice is starting 1/4/2020 8:53:08 PM
+Error : The device at 192.168.137.2:4370 did not respond!!1/4/2020 8:53:09 PM
